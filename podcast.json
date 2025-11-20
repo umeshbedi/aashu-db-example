@@ -1,0 +1,36 @@
+[
+  {
+    "adult": false,
+    "backdrop_path": "/tldMHeR7UnihV5ffrxxM8cDhbtT.jpg",
+    "genre_ids": [10759, 18, 10765],
+    "id": 205715,
+    "origin_country": ["US"],
+    "original_language": "en",
+    "original_name": "Gen V",
+    "overview": "At America's only college for superheroes, gifted students put their moral boundaries to the test, competing for the university's top ranking, and a chance to join The Seven, Vought International's elite superhero team. When the school's dark secrets come to light, they must decide what kind of heroes they want to become.",
+    "popularity": 164.9106,
+    "poster_path": "/tEv842Nd5uMSavURG4aQO1pNtst.jpg",
+    "first_air_date": "2023-09-28",
+    "name": "Gen V",
+    "vote_average": 7.71,
+    "vote_count": 1217,
+    "item_type": "tv"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/tc7canPSAn2X14hYi6Rl3gZm1o4.jpg",
+    "genre_ids": [80, 18],
+    "id": 549,
+    "origin_country": ["US"],
+    "original_language": "en",
+    "original_name": "Law & Order",
+    "overview": "In cases ripped from the headlines, police investigate serious and often deadly crimes, weighing the evidence and questioning the suspects until someone is taken into custody. The district attorney's office then builds a case to convict the perpetrator by proving the person guilty beyond a reasonable doubt. Working together, these expert teams navigate all sides of the complex criminal justice system to make New York a safer place.",
+    "popularity": 185.8594,
+    "poster_path": "/haJ9eHytVO3H3JooMJG1DiWwDNm.jpg",
+    "first_air_date": "1990-09-13",
+    "name": "Law & Order",
+    "vote_average": 7.382,
+    "vote_count": 640,
+    "item_type": "tv"
+  }
+]
