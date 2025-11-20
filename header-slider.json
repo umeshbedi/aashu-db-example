@@ -6,7 +6,8 @@
     "overview": "An orphan, Sarthak, is raised by a couple. As he grows up, Sarthak, along with two friends, raises awareness about serving parents across India and launches a massive campaign to celebrate February 14th as \"Parents' Day.\" He meets with ministers, chief ministers, and officials to gain national recognition for this day.",
     "title": "Tere Ghar Me Ganga Behti Hai",
     "button_text": "Watch Now",
-    "enabled": true
+    "enabled": true,
+    "item_type": "movie"
   },
   {
     
@@ -15,7 +16,8 @@
     "overview": "Rishi Prasad Movie. An orphan, Sarthak, is raised by a couple. As he grows up, Sarthak, along with two friends, raises awareness about serving parents across India and launches a massive campaign to celebrate February 14th as \"Parents' Day.\" He meets with ministers, chief ministers, and officials to gain national recognition for this day.",
     "title": "Rishi Prasad",
     "button_text": "Coming Soon...",
-    "enabled": false
+    "enabled": false,
+    "item_type": "movie"
   }
   
 ]
