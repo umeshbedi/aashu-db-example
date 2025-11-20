@@ -2,19 +2,19 @@
   {
     "adult": false,
     "backdrop_path": "/tere-ghar-me-ganga-bahati-hai6e37075ac35f056eaabdc9bc357f286d.jpg",
-    "genre_ids": [10759, 18, 10765],
-    "id": 205715,
-    "origin_country": ["US"],
+    "genre_ids": [18, 27, 14],
+    "id": 1062722,
     "original_language": "en",
-    "original_name": "Popular Podcast",
-    "overview": "At America's only college for superheroes, gifted students put their moral boundaries to the test, competing for the university's top ranking, and a chance to join The Seven, Vought International's elite superhero team. When the school's dark secrets come to light, they must decide what kind of heroes they want to become.",
-    "popularity": 164.9106,
-    "poster_path": "/tEv842Nd5uMSavURG4aQO1pNtst.jpg",
-    "first_air_date": "2023-09-28",
-    "name": "Gen V",
-    "vote_average": 7.71,
-    "vote_count": 1217,
-    "item_type": "tv"
+    "original_title": "Tere Ghar Me Ganga Behti Hai",
+    "overview": "An orphan, Sarthak, is raised by a couple. As he grows up, Sarthak, along with two friends, raises awareness about serving parents across India and launches a massive campaign to celebrate February 14th as \"Parents' Day.\" He meets with ministers, chief ministers, and officials to gain national recognition for this day.",
+    "popularity": 529.4985,
+    "poster_path": "/g4JtvGlQO7DByTI6frUobqvSL3R.jpg",
+    "release_date": "2025-10-17",
+    "title": "Podcast 1 Another Movie Name",
+    "video": "/Arungiri%20ji%20Trailer/master.m3u8",
+    "vote_average": 7.8,
+    "vote_count": 1506,
+    "item_type": "podcast"
   },
   {
     "adult": false,
@@ -28,9 +28,10 @@
     "popularity": 185.8594,
     "poster_path": "/haJ9eHytVO3H3JooMJG1DiWwDNm.jpg",
     "first_air_date": "1990-09-13",
-    "name": "Law & Order",
-    "vote_average": 7.382,
-    "vote_count": 640,
-    "item_type": "tv"
+    "title": "Podcast Another 2 Movie Name",
+    "video": "/Arungiri%20ji%20Trailer/master.m3u8",
+    "vote_average": 7.8,
+    "vote_count": 1506,
+    "item_type": "podcast"
   }
 ]
