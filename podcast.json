@@ -15,23 +15,6 @@
     "vote_average": 7.8,
     "vote_count": 1506,
     "item_type": "podcast"
-  },
-  {
-    "adult": false,
-    "backdrop_path": "/tc7canPSAn2X14hYi6Rl3gZm1o4.jpg",
-    "genre_ids": [80, 18],
-    "id": 549,
-    "origin_country": ["US"],
-    "original_language": "en",
-    "original_name": "Law & Order",
-    "overview": "In cases ripped from the headlines, police investigate serious and often deadly crimes, weighing the evidence and questioning the suspects until someone is taken into custody. The district attorney's office then builds a case to convict the perpetrator by proving the person guilty beyond a reasonable doubt. Working together, these expert teams navigate all sides of the complex criminal justice system to make New York a safer place.",
-    "popularity": 185.8594,
-    "poster_path": "/thumbnail-tere-ghar-me-ganga-bahati-haib0bcb430ea665b8711aa6e6f61032004.jpg",
-    "first_air_date": "1990-09-13",
-    "title": "Podcast Another 2 Movie Name",
-    "video": "/Arungiri%20ji%20Trailer/master.m3u8",
-    "vote_average": 7.8,
-    "vote_count": 1506,
-    "item_type": "podcast"
   }
+  
 ]
