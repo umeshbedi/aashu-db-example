@@ -18,53 +18,21 @@
   },
   {
     "adult": false,
-    "backdrop_path": "/tere-ghar-me-ganga-bahati-hai6e37075ac35f056eaabdc9bc357f286d.jpg",
+    "backdrop_path": "",
     "genre_ids": [18, 27, 14],
     "id": "RpUkfs2pvdQ",
     "original_language": "en",
     "original_title": "",
     "overview": "25 December | Mystery of Christmas & Tulsi Pujan Day\nA mysterious and thought-provoking story based on school children and the cultural environment around them.\nHow modern celebrations, social influence, and changing traditions affect young minds.\nThe story highlights the contrast between Western influence and Indian values, leading to awareness through Tulsi Pujan Day—a message of culture, balance, and moral growth for the next generation.\n\nA story that makes children think, observe, and understand their roots.",
     "popularity": 529.4985,
-    "poster_path": "",
+    "poster_path": "/25-dec-thumb-nail-2e1655b16c2d4ac3a49ceced5d056e81.jpg",
     "release_date": "2025-10-17",
     "title": "25 December wali story | Short Film",
     "video": "/25-December-wali-Story--_-Short-Film-_--Think-India(1080P_HD)-beed780f84712b6a6b07d6ffc2b082a8/master.m3u8",
     "vote_average": 10,
     "vote_count": 1506,
     "item_type": "movie"
-  },
-  {
-    "adult": false,
-    "backdrop_path": "",
-    "genre_ids": [18, 27, 14],
-    "id": "4q2TWB9Dszw",
-    "original_language": "en",
-    "original_title": "",
-    "overview": "Examining the evolution of Valentine's Day from a heartfelt celebration of love into a commercial frenzy, the film uncovers the emotional and societal tolls, challenging viewers to rethink love, consumerism, and self-worth..",
-    "popularity": 529.4985,
-    "poster_path": "/The-14th-February-and-Beyond-92a7afd8e8306e7c707663ea9661053f.jpeg",
-    "release_date": "2025-10-17",
-    "title": "The 14th February and Beyond | Award Winning Film | Valentine's Day Film",
-    "video": "/The-14th-February-_-Beyond-_-Documentary-Film-_-Award-Winning-Film-_-Valentine_s-Day-Film(1080P_HD)-db3ebacf8942a0a984da4481275d5e2c-7c22234836120b23dc3de134193685f2/master.m3u8",
-    "vote_average": 9.8,
-    "vote_count": 1506,
-    "item_type": "movie"
-  },
-  {
-    "adult": false,
-    "backdrop_path": "",
-    "genre_ids": [18, 27, 14],
-    "id": "aSeGZTVtr0j",
-    "original_language": "en",
-    "original_title": "25 December | Mystery of Christmas | Tulsi Poojan Diwas | Documentary Film",
-    "overview": "Do you know the mystery behind Christmas and Tulsi Pujan Diwas?\nLet us uncover the truth, hidden facts, conspiracies, and deep analysis of 25th December.\nFrom 25 December to 1 January, how religious influence and multinational companies impact humanity and society.\nHow culture and values are affected—and how saints gifted society a powerful solution: Tulsi Pujan Diwas, a symbol of awareness, tradition, and humanity.\n\nKnow the Truth • Protect Culture • Embrace Tulsi Pujan Diwas",
-    "popularity": 529.4985,
-    "poster_path": "",
-    "release_date": "2025-10-17",
-    "title": "25 December | Mystery of Christmas | Tulsi Poojan Diwas | Documentary Film",
-    "video": "/25-December-_-Mystery-of-CHRISTMAS-_-TULSI-PUJAN-Day-__-Documentary-__(1080P_HD)-59d62786e5259e490170191a70ceba75/master.m3u8",
-    "vote_average": 9.8,
-    "vote_count": 1506,
-    "item_type": "movie"
   }
+  
+  
 ]
