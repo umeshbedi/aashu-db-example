@@ -1,18 +1,14 @@
 [
   {
     "adult": false,
-    "backdrop_path": "/tere-ghar-me-ganga-bahati-hai6e37075ac35f056eaabdc9bc357f286d.jpg",
-    "genre_ids": [18, 27, 14],
-    "id": 1062722,
-    "original_language": "en",
-    "original_title": "Tere Ghar Me Ganga Behti Hai",
-    "overview": "An orphan, Sarthak, is raised by a couple. As he grows up, Sarthak, along with two friends, raises awareness about serving parents across India and launches a massive campaign to celebrate February 14th as \"Parents' Day.\" He meets with ministers, chief ministers, and officials to gain national recognition for this day.",
-    "popularity": 529.4985,
-    "poster_path": "/thumbnail-tere-ghar-me-ganga-bahati-haib0bcb430ea665b8711aa6e6f61032004.jpg",
-    "release_date": "2025-10-17",
-    "title": "Podcast 1 Another Movie Name",
-    "video": "/Arungiri%20ji%20Trailer/master.m3u8",
-    "vote_average": 7.8,
+    "backdrop_path": "/haridwar-9e41c7ab2f50836d1bce4a99f8d32755.jpg",
+    "id": "rb06e697d76",
+    "overview": "A sharp clash between political power and spiritual wisdom. This trailer uncovers hidden motives, rising tensions, and the battle between worldly ambition and true Brahmgyan. A thought-provoking glimpse into truth, manipulation, and awakening.",
+    "poster_path": "/Haridwar-thumbnail-084e9e27b61e58334533cf6c8d23193d.jpg",
+    "release_date": "2025-11-17",
+    "title": "Politics, Politicians & Spiritual Wisdom",
+    "video": "/Rajneta-Rajniti-v-Brahmgyan-Podcast(1080P_HD)-9de4e98b2af182b083366e598452439a/master.m3u8",
+    "vote_average": 9.8,
     "vote_count": 1506,
     "item_type": "podcast"
   }
